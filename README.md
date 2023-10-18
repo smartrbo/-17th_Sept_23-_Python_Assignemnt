@@ -1,2 +1,2 @@
-# -17th_Sept_23-_Python_Assignemnt
+# 17th_Sept_23-_Python_Assignemnt
 Pw course Assigment
